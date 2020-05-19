@@ -1,0 +1,2 @@
+# willblogMac
+Django Training
